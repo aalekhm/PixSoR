@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_VertexVaryings", "07_Ver
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_ShaderEmulation", "08_ShaderEmulation\08_ShaderEmulation.vcxproj", "{CC073953-1042-4886-90A6-5A760C026D71}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_Transform", "09_Transform\09_Transform.vcxproj", "{CC073954-1043-4887-90A7-5A760C026D72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{CC073953-1042-4886-90A6-5A760C026D71}.Release|x64.Build.0 = Release|x64
 		{CC073953-1042-4886-90A6-5A760C026D71}.Release|x86.ActiveCfg = Release|Win32
 		{CC073953-1042-4886-90A6-5A760C026D71}.Release|x86.Build.0 = Release|Win32
+		{CC073954-1043-4887-90A7-5A760C026D72}.Debug|x64.ActiveCfg = Debug|x64
+		{CC073954-1043-4887-90A7-5A760C026D72}.Debug|x64.Build.0 = Debug|x64
+		{CC073954-1043-4887-90A7-5A760C026D72}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC073954-1043-4887-90A7-5A760C026D72}.Debug|x86.Build.0 = Debug|Win32
+		{CC073954-1043-4887-90A7-5A760C026D72}.Release|x64.ActiveCfg = Release|x64
+		{CC073954-1043-4887-90A7-5A760C026D72}.Release|x64.Build.0 = Release|x64
+		{CC073954-1043-4887-90A7-5A760C026D72}.Release|x86.ActiveCfg = Release|Win32
+		{CC073954-1043-4887-90A7-5A760C026D72}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
