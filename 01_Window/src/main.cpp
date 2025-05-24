@@ -12,7 +12,7 @@ void update();
 
 int main(int argc, char** argv)
 {
-	createWindow(480, 320, "PixSoR Window!");
+	createWindow(480, 320, "01_Window");
 
 	update();
 

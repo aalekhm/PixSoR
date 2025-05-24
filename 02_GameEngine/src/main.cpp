@@ -7,7 +7,7 @@ class MyEngine : public GameEngine
 	public:
 		MyEngine()
 		{
-			createWindow(480, 320, "PixSoR Window!");
+			createWindow(480, 320, "02_GameEngine");
 		}
 
 		virtual void onCreate()
